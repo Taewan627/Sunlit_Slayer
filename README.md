@@ -1,5 +1,6 @@
 # ☀️ Project: SUNLIT-PROTOCOL
 > **Web-based AI Combat Simulation & Level Design Testbed**
+
 > Demo Play: https://huggingface.co/spaces/devmeta/Sunlit_Slayer
 
 ![Generic badge](https://img.shields.io/badge/Tech-Three.js%20%7C%20WebGL-blue)
