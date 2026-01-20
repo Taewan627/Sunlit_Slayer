@@ -57,7 +57,6 @@ This project serves as a **spatial prototyping environment** to verify FPS level
 ---
 
 ## 📸 Screenshots & Demo
-*(Optional: Add your screenshots or GIFs here to demonstrate the gameplay and AI interaction)*
 
 > Demo Play: https://huggingface.co/spaces/devmeta/Sunlit_Slayer
 
