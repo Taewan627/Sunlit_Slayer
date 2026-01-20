@@ -8,7 +8,7 @@
 ![Generic badge](https://img.shields.io/badge/Focus-Level%20Design%20%26%20Balancing-green)
 
 ## 📖 Overview
-**Project: SUNLIT-PROTOCOL** is a WebGL-based FPS survival simulation built with **Three.js**. It goes beyond traditional gameplay by integrating **Generative AI (Gemini 1.5 Flash)** into real-time loops. The system dynamically generates "Commander Communications" based on current wave status and player performance, creating a non-linear narrative experience within a browser environment.
+**Project: SUNLIT-PROTOCOL** is a WebGL-based FPS survival simulation built with **Three.js**. It goes beyond traditional gameplay by integrating **Generative AI (Gemini 3 Flash)** into real-time loops. The system dynamically generates "Commander Communications" based on current wave status and player performance, creating a non-linear narrative experience within a browser environment.
 
 This project was developed as a **'Vibe Coding' experiment**, aimed at verifying the efficiency of AI-assisted game prototyping and the potential of LLMs in dynamic in-game storytelling.
 
