@@ -30,8 +30,8 @@ This project serves as a **spatial prototyping environment** to verify FPS level
 ## ⚙️ Key Features (Tech & AI)
 
 ### 🤖 AI-Driven Narrative
-* Utilizes `gemini-1.5-flash` to generate **context-aware tactical briefings**.
-* Delivers real-time encouragement or warnings at the start/end of each wave based on player performance (HP, Ammo efficiency).
+* Utilizes **`gemini-3-flash-preview`** to generate context-aware tactical briefings.
+* Delivers real-time encouragement or warnings at the start/end of each wave based on player performance.
 
 ### 🌊 Progressive Wave Logic
 * Designed to stress-test combat mechanics through algorithmic difficulty spikes.
@@ -51,7 +51,7 @@ This project serves as a **spatial prototyping environment** to verify FPS level
 ## 🛠️ Tech Stack
 * **Engine:** Three.js (WebGL)
 * **Language:** TypeScript / JavaScript
-* **AI Model:** Google Gemini 1.5 Flash (via API)
+* **AI Model:** Google **Gemini 3 Flash Preview** (via API)
 * **Physics:** Custom AABB Physics Engine
 
 ---
